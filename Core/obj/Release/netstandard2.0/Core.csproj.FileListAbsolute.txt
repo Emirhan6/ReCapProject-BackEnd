@@ -1,0 +1,9 @@
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.AssemblyInfo.cs
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\bin\Release\netstandard2.0\Core.deps.json
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\bin\Release\netstandard2.0\Core.dll
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\bin\Release\netstandard2.0\Core.pdb
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.dll
+D:\Yeni klasör\Users\SAMSUNG\source\repos\ReCapProject\Core\obj\Release\netstandard2.0\Core.pdb
